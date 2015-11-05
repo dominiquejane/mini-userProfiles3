@@ -1,4 +1,4 @@
-# User Profiles
+# User Profiles 
 ### Understanding Services with $q
 Now returning to our project where we are pulling user profiles, we've made some good progress. We can now make real life API requests for data using $http (AJAX requests)!
 
